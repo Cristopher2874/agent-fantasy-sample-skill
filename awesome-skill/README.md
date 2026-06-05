@@ -1,4 +1,4 @@
-# Cris Team Test Skill Package
+# Awesome Team Test Skill Package
 
 Small participant-style package for validating the upload/intake pipeline.
 
