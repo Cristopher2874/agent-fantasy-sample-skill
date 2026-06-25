@@ -23,3 +23,5 @@ Bracket posture:
 - Avoid upset chains that contradict the earlier winners you already selected.
 
 Return one winner for every required match. Later-round picks must be reachable from earlier winners, and `champion_team_id` must match the final winner.
+
+IMPORTANT: check that your picks are compliant with the previous picks, so if you declared a team winner on quarter finals, you need to be compliant and use that team for semifinals, because that follows the right logic. Be sure to generate a compliant strutcture and as the bracket closes, pick teams that you already declared winners, do not invent the results trying to use a team that was not present on the previous match phase or result.
